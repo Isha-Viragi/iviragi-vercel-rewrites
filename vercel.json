@@ -1,0 +1,20 @@
+{
+  "rewrites" : [
+    {
+      "source": "/rock-paper-scissors/",
+      "destination": "https://isha-project-rock-paper-scissors.vercel.app/"
+    },
+    {
+      "source": "/rock-paper-scissors/:match*",
+      "destination": "https://isha-project-rock-paper-scissors.vercel.app/:match*"
+    },
+    {
+      "source": "/cart-counter/",
+      "destination": "https://isha-projects-js-cart-counter.vercel.app/"
+    },
+    {
+      "source": "/cart-counter/:match*",
+      "destination": "https://isha-projects-js-cart-counter.vercel.app/:match*"
+    }
+  ]
+}
