@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/rock-paper-scissors/images/:filePath",
+      "destination": "https://isha-project-rock-paper-scissors.vercel.app/images/:filePath",
+      "permanent": true
+    }
+  ],
   "rewrites" : [
     {
       "source": "/rock-paper-scissors/",
