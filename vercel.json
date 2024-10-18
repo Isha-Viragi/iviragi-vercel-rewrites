@@ -1,5 +1,5 @@
 {
-  "redirects": [
+  "rewrites" : [
     {
       "source": "/rock-paper-scissors/",
       "destination": "https://isha-project-rock-paper-scissors.vercel.app/"
@@ -15,6 +15,10 @@
     {
       "source": "/cart-counter/:match*",
       "destination": "https://isha-projects-js-cart-counter.vercel.app/:match*"
+    },
+    {
+      "source": "/rock-paper-scissors/images/:path*",
+      "destination": "https://isha-project-rock-paper-scissors.vercel.app/images/:path*"
     }
   ]
 }
