@@ -17,7 +17,7 @@
       "destination": "https://isha-projects-js-cart-counter.vercel.app/:match*"
     },
     {
-      "source": "/rock-paper-scissors/images/:path*",
+      "source": "/images/:path*",
       "destination": "https://isha-project-rock-paper-scissors.vercel.app/images/:path*"
     }
   ]
