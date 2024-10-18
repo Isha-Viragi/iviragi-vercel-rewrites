@@ -19,6 +19,10 @@
     {
       "source": "/images/:path*",
       "destination": "https://isha-project-rock-paper-scissors.vercel.app/images/:path*"
+    },
+    {
+      "source": "/styles.css",
+      "destination": "https://isha-project-rock-paper-scissors.vercel.app/styles.css"
     }
   ]
 }
