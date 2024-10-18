@@ -1,13 +1,6 @@
 {
   "redirects": [
     {
-      "source": "/rock-paper-scissors/images/rock-emoji.png",
-      "destination": "https://isha-project-rock-paper-scissors.vercel.app/images/rock-emoji.png",
-      "permanent": true
-    }
-  ],
-  "rewrites" : [
-    {
       "source": "/rock-paper-scissors/",
       "destination": "https://isha-project-rock-paper-scissors.vercel.app/"
     },
