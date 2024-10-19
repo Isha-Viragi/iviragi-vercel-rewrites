@@ -9,14 +9,6 @@
       "destination": "https://isha-project-rock-paper-scissors.vercel.app/:match*"
     },
     {
-      "source": "/cart-counter/",
-      "destination": "https://isha-projects-js-cart-counter.vercel.app/"
-    },
-    {
-      "source": "/cart-counter/:match*",
-      "destination": "https://isha-projects-js-cart-counter.vercel.app/:match*"
-    },
-    {
       "source": "/images/:path*",
       "destination": "https://isha-project-rock-paper-scissors.vercel.app/images/:path*"
     },
@@ -27,6 +19,20 @@
     {
       "source": "/main.js",
       "destination": "https://isha-project-rock-paper-scissors.vercel.app/main.js"
+    },
+
+
+    {
+      "source": "/cart-counter/",
+      "destination": "https://isha-projects-cart-counter.vercel.app/"
+    },
+    {
+      "source": "/cart-counter/:match*",
+      "destination": "https://isha-projects-cart-counter.vercel.app/:match*"
+    },
+    {
+      "source": "/styles/:path*",
+      "destination": "https://isha-project-rock-paper-scissors.vercel.app/styles/:path*"
     }
   ]
 }
