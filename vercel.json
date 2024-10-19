@@ -32,7 +32,11 @@
     },
     {
       "source": "/styles/:path*",
-      "destination": "https://isha-project-rock-paper-scissors.vercel.app/styles/:path*"
+      "destination": "https://isha-projects-cart-counter.vercel.app/styles/:path*"
+    },
+    {
+      "source": "/images/:path*",
+      "destination": "https://isha-projects-cart-counter.vercel.app/images/:path*"
     }
   ]
 }
