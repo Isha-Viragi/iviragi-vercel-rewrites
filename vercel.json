@@ -50,11 +50,11 @@
 
     },
     {
-      "source": "/main.js",
+      "source": "/src/main.js",
       "destination": "https://isha-interactive-canvas.vercel.app/main.js"
     },
     {
-      "source": "/styles.css",
+      "source": "/src/styles.css",
       "destination": "https://isha-interactive-canvas.vercel.app/styles.css"
     }
   ]
