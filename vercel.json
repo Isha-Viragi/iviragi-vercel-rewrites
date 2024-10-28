@@ -50,7 +50,7 @@
     },
     {
       "source": "/src/main.js",
-      "destination": "https://isha-interactive-canvas.vercel.app/src/:match*"
+      "destination": "https://isha-interactive-canvas.vercel.app/src/main.js"
     },
     {
       "source": "/src/styles.css",
