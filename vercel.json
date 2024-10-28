@@ -47,15 +47,14 @@
     {
       "source": "/interactive-canvas/:match*",
       "destination": "https://isha-interactive-canvas.vercel.app/:match*"
-
     },
     {
       "source": "/src/main.js",
-      "destination": "https://isha-interactive-canvas.vercel.app/main.js"
+      "destination": "https://isha-interactive-canvas.vercel.app/src/main.js"
     },
     {
       "source": "/src/styles.css",
-      "destination": "https://isha-interactive-canvas.vercel.app/styles.css"
+      "destination": "https://isha-interactive-canvas.vercel.app/src/styles.css"
     }
   ]
 }
